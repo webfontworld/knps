@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'KNPSKkomi';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/knps/KNPSKkomi.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/knps/KNPSKkomi.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/knps/KNPSKkomi.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/knps/KNPSKkomi.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/knps/KNPSKkomi.ttf') format("truetype");
+    font-display: swap;
+} 
