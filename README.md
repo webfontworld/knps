@@ -3,7 +3,7 @@
 # 국립공원 반달이체(KNPSBandali)
 
 <a href="https://wess.tistory.com" target="_blank">
-    <img src="https://webfontworld.github.io/busan/KNPSBandali.jpg" alt="KNPSBandali" style="width:300px">
+    <img src="https://webfontworld.github.io/knps/KNPSBandali.jpg" alt="KNPSBandali" style="width:300px">
 </a>
 <pre>
 @font-face {
@@ -22,7 +22,7 @@
 # 국립공원 꼬미체(KNPSKkomi)
 
 <a href="https://wess.tistory.com" target="_blank">
-    <img src="https://webfontworld.github.io/busan/KNPSKkomi.jpg" alt="KNPSKkomi" style="width:300px">
+    <img src="https://webfontworld.github.io/knps/KNPSKkomi.jpg" alt="KNPSKkomi" style="width:300px">
 </a>
 <pre>
 @font-face {
